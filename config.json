@@ -1,0 +1,201 @@
+{
+    "en-CA": {
+        "styles": {
+            "bg": "#1F669E",
+            "lang-select-color": "#222829",
+            "bg-light": "#F8E1C0",
+            "welcome-bonus-bg": "#F8E1C0",
+            "top-games-hover-fg": "#1a1a1a",
+            "main-bg": "#FCEBD3",
+            "text": "#222829",
+            "text-black": "#222829",
+            "table-head": "#1F669E",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#1088BC",
+            "yellow": "#EC5A00",
+            "yellow-button": "#1088BC",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#efefdc",
+            "casino-cards": "#fff9f0",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#000033",
+            "pay-back": "#deeadf",
+            "providers-back": "#f7dab1",
+            "faq-label": "#fff9f0",
+            "bg-footer": "#1F669E",
+            "copyright": "#e7e7d5",
+            "starColor": "#EC5A00",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            },
+            "welcomeBonusFont": {
+                "value": "Roboto",
+                "isCustom": false
+            }
+        },
+        "seo": {
+            "name": "Vegasino",
+            "title": "Vegasino Casino | Games, Bonuses, Fast Withdrawals & Security",
+            "description": "Discover the world of gaming with Vegasino! Thousands of slots, live casino, generous bonuses, secure payments, and 24\/7 support. Play online with maximum comfort and winning opportunities!\n",
+            "canonical": "vegasinocasino-online.com",
+            "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/701",
+            "ogImageWidth": 1200,
+            "ogImageHeight": 630,
+            "twitterSite": "vegasinocasino-online.com",
+            "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/702",
+            "keywords": "casino, online casino, gambling, slots, table games"
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/703"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/704",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Vegasino Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "hero": {
+            "title": "Vegasino \u2014 Online Casino with Bonuses and Secure Payouts",
+            "textDesktop": "Exclusive welcome offer of",
+            "textMobile": "Exclusive welcome bonus of",
+            "playGame": "Play game",
+            "claimBonus": "Claim Bonus",
+            "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/705",
+            "imageSizeModifier": 20,
+            "imageYModifier": -6,
+            "imageXModifier": 0,
+            "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/706",
+            "mobileImageSizeModifier": 0,
+            "mobileImageYModifier": 1,
+            "mobileImageXModifier": 0
+        },
+        "topCasino": {
+            "topCasinoButtonText": "Claim Bonus",
+            "title": "Top Casino",
+            "allCasino": "All Casino",
+            "welcomeBonusText": "Welcome bonus"
+        },
+        "bonusDetails": {
+            "title": "Bonus Details",
+            "getBonusButtonText": "Get Bonus",
+            "maximumAmountText": "Maximum amount",
+            "wagerText": "Wager",
+            "bonusCodeText": "Bonus Code",
+            "casino": "Casino",
+            "bonuses": "Bonuses",
+            "rate": "Rate",
+            "freeSpins": "Free Spins",
+            "moreInfo": "More Info",
+            "get": "Get",
+            "refresh": "Refresh"
+        },
+        "advantages": {
+            "title": "Advantages",
+            "advantagesBeforeText": "",
+            "items": [
+                "Huge selection of slots from top providers",
+                "Live casino with professional dealers",
+                "Table games: roulette, blackjack, baccarat",
+                "Exclusive tournaments and gaming events",
+                "Fast payouts and crypto-friendly options",
+                "Welcome bonuses and regular promotions",
+                "Mobile-friendly platform for gaming on the go"
+            ],
+            "advantagesAfterText": "The platform combines convenience, security, and generous bonuses, making it a great choice for players.\n",
+            "knowMore": "Know more",
+            "appTitle": "Vegasino App",
+            "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/707",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "mobileAlt": "Vegasino App",
+            "mobileGooglePlayImageTitle": "Vegasino App",
+            "mobileIosImageTitle": "Vegasino App"
+        },
+        "games": {
+            "playNowText": "Play now",
+            "title": "Popular Games",
+            "allGames": "All Games"
+        },
+        "about": {
+            "history": {
+                "title": "About Vegasino",
+                "description1": "",
+                "items": [
+                    "Bonus up to \u20ac500 + 200 free spins",
+                    "Maximum winnings up to \u20ac7000 monthly",
+                    "Cashback up to 15% for VIP"
+                ],
+                "description2": "Vegasino is a modern online gaming platform. The casino offers a wide selection of slots and table games. Live games with professional dealers are available. The website interface is user-friendly for beginners and experienced players. The platform supports secure payment methods and fast transactions. ",
+                "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/708",
+                "imageSizeModifier": 0,
+                "imageYModifier": 0,
+                "imageXModifier": 0,
+                "imageAlt": "History",
+                "description3": "Players can enjoy bonuses and regular promotions. The site is mobile-friendly, ensuring convenient play anywhere. The casino partners with leading providers to guarantee high-quality content. Customer support is available 24\/7 to assist with any inquiries. Vegasino combines game variety, reliability, and attractive conditions for players."
+            }
+        },
+        "custom": {
+            "customHtml": {
+                "title": "Vegasino \u2014 A Modern World of Online Gaming",
+                "description": "<p>\nVegasino is a dynamic online platform that brings together thousands of games from leading global providers. Designed for players who value variety, convenience, and security, this casino offers everything from classic slots to innovative gaming solutions with unique mechanics.\n\n<\/p>\n<br>\n<p>\nSpecial attention is given to content quality. Slots from Pragmatic Play, NetEnt, and other top studios deliver stunning graphics, engaging storylines, and fair algorithms. The live casino with professional dealers recreates the atmosphere of a real gaming hall, while table games let you test your luck in roulette, blackjack, and baccarat.\n\n<\/p>\n<br>\n<p>\nThe Vegasino platform focuses on user convenience. Fast registration, instant deposits, and cryptocurrency support make the gaming process smooth and enjoyable. The mobile version allows you to play your favorite games anywhere while maintaining full functionality and quality.\n\n<\/p>\n<br>\n<p>\nSecurity is one of Vegasino\u2019s top priorities. The casino operates under an Anjouan Gaming Board license, uses SSL encryption, and guarantees fair payouts. This builds trust and confidence among players worldwide.\n\n<\/p>\n<br>\n\n<p>\nGenerous bonuses and regular promotions enhance the gaming experience. A welcome package, weekly free spins, and VIP cashback make Vegasino an attractive choice for both beginners and seasoned players. Here, excitement meets opportunity, and every spin can lead to a big win.\n\n<\/p>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nPayment Methods and Currencies at Vegasino\n<\/h3>\n\n<p>\nVegasino offers players a wide range of convenient and secure payment options. The platform supports both traditional bank cards and modern e-wallets, ensuring fast deposits and withdrawals. For those who prefer innovation, cryptocurrencies are available, making the gaming process flexible and up-to-date.\n\n<\/p>\n<br>\n<p>\nPlayers can use popular payment systems, including Visa and MasterCard, as well as services like Skrill and Neteller. This guarantees comfort and reliability for all transactions. Additionally, Vegasino actively supports cryptocurrency payments, allowing the use of Bitcoin, Ethereum, and other digital assets.\n\n<\/p>\n<br>\n<p>\nThe casino\u2019s currency policy is designed for user convenience. The platform accepts several major currencies, including euros, dollars, and British pounds, making gaming accessible to players worldwide. This approach ensures transparency and simplicity in financial operations regardless of location.\n\n<\/p>\n<br>\n<p>\nVegasino combines security and speed in all financial processes. Transactions are protected by advanced encryption technologies, and withdrawals are streamlined for ease. This creates trust and comfort for players who value reliability and efficiency.\n\n<\/p>\n<br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nRules for Visiting Vegasino Online Casino\n<\/h3>\n\n<p>\nVisiting Vegasino online casino requires compliance with certain rules to ensure safety and comfort for all players. The main condition is registration only for adults, as gambling is strictly limited to users above the legal age. When creating an account, players must provide accurate information to avoid issues with verification and withdrawals.\n\n<\/p>\n<br>\n<p>\nPlayers are required to use their own payment methods and must not share their account with third parties. All actions on the platform should follow fair play principles, without using external software or fraudulent schemes. The casino reserves the right to verify user identity and suspend access in case of violations.\n\n<\/p>\n<br>\n<p>\nCreating multiple accounts to claim bonuses or bypass limits is prohibited. Unauthorized programs that affect game outcomes are also strictly forbidden. Any attempt at cheating may result in account blocking and forfeiture of winnings.\n\n<\/p>\n<br>\n<p>\nVegasino adheres to responsible gaming standards. Users should manage their bets and avoid using the platform for illegal financial activities. All transactions are monitored to prevent money laundering risks.\n\n<\/p>\n<br>\n\n\n\n<div\n lang=\"en\"\n     style=\"\n       -webkit-columns: 320px 2;\n       -moz-columns: 320px 2;\n       columns: 320px 2;\n\n        -webkit-column-gap: 1.2em;\n       -moz-column-gap: 1.2em;\n       column-gap: 1.2em;\n \n       hyphens: auto;\n\">\n\n\n   <!-- \u041b\u0435\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Conditions\n<\/h4>\n            <ul>\n            <li>\u2022 \nRegistration only for adult players\n\n<\/li>\n            <li>\u2022 \nProviding accurate data during account setup\n\n<\/li>\n            <li>\u2022 \nUsing personal payment methods\n\n<\/li>\n           <li>\u2022 \nFollowing fair play rules\n\n<\/li>\n        <\/ul>\n        <br>\n\n     \n    <\/div>\n\n    <!-- \u041f\u0440\u0430\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\"> Prohibitions\n<\/h4>\n        <ul>\n            <li>\u2022 \nCreating multiple accounts\n\n<\/li>\n            <li>\u2022 \nSharing accounts with third parties\n\n<\/li>\n  \n            <li>\u2022 \nUsing external software or bots\n\n<\/li>\n            <li>\u2022 \nAttempting fraud or bypassing limits\n\n<\/li> \n        <\/ul><br>\n\n    <\/div>\n<\/div>\n<br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nLicense and Data Protection at Vegasino\n<\/h3>\n\n<p>\nVegasino operates under an international license issued by the Anjouan Gaming Board. This ensures compliance with standards of fair play, transparency, and user protection. The license confirms that the casino functions within legal frameworks and undergoes regular audits.\n\n<\/p>\n<br>\n<p>\nTo safeguard player data, Vegasino uses advanced SSL encryption, securing personal information and financial transactions. All payments are processed through protected channels, eliminating risks of interception or unauthorized access. The platform employs multi-layered security protocols to prevent hacking attempts.\n\n<\/p>\n<br>\n<p>\nThe privacy policy strictly regulates the handling of personal data. User information is never shared with third parties without consent and is used solely to maintain service functionality. The casino also implements anti-fraud and anti-money laundering measures, monitoring all transactions.\n\n<\/p>\n<br>\n<p>\nAdditionally, Vegasino promotes responsible gaming principles. Players can set deposit and time limits to maintain control over their activity. These measures create a secure and enjoyable environment for online entertainment.\n\n<\/p>\n<br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nCustomer Support at Vegasino\n<\/h3>\n\n<p>\nVegasino\u2019s customer support is designed to provide players with maximum comfort and quick solutions to any issues. The casino offers several convenient communication channels, including live chat, email, and phone. Live chat is available 24\/7, allowing real-time assistance without delays.\n\n<\/p>\n<br>\n<p>\nEmail responses typically arrive within a few hours, while the phone line is reserved for more complex inquiries requiring a personalized approach. The service quality is rated highly: representatives respond promptly, provide clear instructions, and assist throughout the gaming process.\n\n<\/p>\n<br>\n<p>\nSpecial attention is given to multilingual support. Vegasino serves an international audience, so assistance is available in several languages, including English, German, Spanish, and more. This ensures smooth communication for players worldwide.\n\n<\/p>\n<br>\n\n\n\n<div\n lang=\"en\"\n     style=\"\n       -webkit-columns: 320px 2;\n       -moz-columns: 320px 2;\n       columns: 320px 2;\n\n        -webkit-column-gap: 1.2em;\n       -moz-column-gap: 1.2em;\n       column-gap: 1.2em;\n \n       hyphens: auto;\n\">\n\n\n   <!-- \u041b\u0435\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Communication Channels\n<\/h4>\n            <ul>\n            <li>\u2022 \nLive chat (24\/7, instant responses)\n\n<\/li>\n            <li>\u2022 \nEmail (reply within a few hours)\n\n<\/li>\n            <li>\u2022 \nPhone (for complex inquiries)\n<\/li>\n\n  \n        <\/ul>\n    <\/div>\n\n    <!-- \u041f\u0440\u0430\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\"> Service Features\n<\/h4>\n        <ul>\n            <li>\u2022 \nFast response times\n\n<\/li>\n            <li>\u2022 \nProfessional and friendly agents\n\n<\/li>\n         \n            <li>\u2022 \nMultilingual support\n<\/li>\n  \n        <\/ul><br>\n      \n\n    <\/div>\n<\/div>\n<br>\n"
+            }
+        },
+        "softwareProviders": {
+            "title": "Software Providers"
+        },
+        "custom_2": {
+            "customHtml_2": {
+                "title": "Entertainment and Gaming at Vegasino",
+                "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nVegasino Loyalty Program \u2014 Exclusive Player Benefits\n<\/h3>\n\n<p>\nThe Vegasino loyalty program is designed to reward active players with extra benefits and personalized perks. It features multiple tiers, each unlocking unique bonuses and special offers. Participation grants cashback, exclusive promotions, and higher withdrawal limits.\n\n<\/p>\n<br>\n<p>\nRegistration is automatic after creating an account and making the first deposit. Players start at the basic level and progress by earning points through bets and activity. The higher the tier, the greater the privileges, including personal account managers and special gifts.\n\n<\/p>\n<br>\n<p>\nKey advantages of the program include generous bonuses, faster payouts, and access to private tournaments. VIP players enjoy up to 15% cashback, exclusive deposit bonuses, and invitations to special events. The loyalty program makes gaming not only exciting but also rewarding.\n\n<\/p>\n<br>\n\n\n\n<div\n lang=\"en\"\n     style=\"\n       -webkit-columns: 320px 2;\n       -moz-columns: 320px 2;\n       columns: 320px 2;\n\n        -webkit-column-gap: 1.2em;\n       -moz-column-gap: 1.2em;\n       column-gap: 1.2em;\n \n       hyphens: auto;\n\">\n\n\n   <!-- \u041b\u0435\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Registration Conditions\n<\/h4>\n            <ul>\n            <li>\u2022 \nCreate an account on Vegasino\n\n<\/li>\n            <li>\u2022 \nMake the first deposit\n\n<\/li>\n            <li>\u2022 \nStart earning points through gameplay\n\n<\/li>\n     \n  \n        <\/ul>\n<br>\n    \n    <\/div>\n\n    <!-- \u041f\u0440\u0430\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\"> Bonuses and Privileges\n<\/h4>\n        <ul>\n            <li>\u2022 \nWeekly cashback up to 15%\n\n<\/li>\n            <li>\u2022 \nPersonal account manager for VIP players\n\n<\/li>\n  \n      \n            <li>\u2022 \nIncreased withdrawal limits\n\n<\/li>\n            <li>\u2022 \nExclusive deposit bonuses\n\n<\/li>\n              <li>\u2022 \nAccess to private tournaments and promotions\n\n<\/li>\n        <\/ul>\n      \n\n    <\/div>\n<\/div>\n<br>\n    <h4 style = \"font-weight: bold; font-size: 24px;\">Program Levels and How to Reach Them\n<\/h4>\n            <ul>\n            <li>\u2022 \nBasic Level \u2014 available immediately after registration\n\n<\/li>\n            <li>\u2022 \nSilver Level \u2014 achieved by collecting a set number of points\n\n<\/li>\n            <li>\u2022 \nGold Level \u2014 for highly active players with significant deposits\n\n<\/li>\n           <li>\u2022 \nPlatinum Level \u2014 exclusive status for VIP members\n\n<\/li>\n\n        <\/ul>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nBonuses and Special Offers at Vegasino \u2014 More Chances to Win\n<\/h3>\n\n<p>\nVegasino offers a wide range of bonuses and special promotions that make gaming more exciting and rewarding. Beyond the loyalty program, the platform regularly hosts events, seasonal campaigns, and tournaments with large prize pools. These offers cater to both new and experienced players, giving everyone extra opportunities to win.\n\n<\/p>\n<br>\n<p>\nWelcome bonuses boost your starting balance, while weekly promotions provide free spins and deposit rewards. Special slot and table game tournaments allow players to compete for substantial cash prizes. Seasonal events tied to holidays include exclusive bonuses and gifts.\n\n<\/p>\n<br>\n<p>\nAdditionally, Vegasino features jackpot games with the chance to win impressive sums. Regular prize draws and cashback programs make gameplay more dynamic and profitable. All these offers are designed to ensure every spin and bet brings maximum enjoyment and winning potential.\n\n<\/p>\n<br>\n\n\n\n<div\n lang=\"en\"\n     style=\"\n       -webkit-columns: 320px 2;\n       -moz-columns: 320px 2;\n       columns: 320px 2;\n\n        -webkit-column-gap: 1.2em;\n       -moz-column-gap: 1.2em;\n       column-gap: 1.2em;\n \n       hyphens: auto;\n\">\n\n\n   <!-- \u041b\u0435\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Welcome Bonus\n<\/h4>\n            <ul>\n            <li>\u2022 \n100% on first deposit + 200 free spins\n\n<\/li>\n            <li>\u2022 \nWagering requirement: 35x\n<\/li>\n        <\/ul>\n<br>\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Weekly Promotions\n<\/h4>\n            <ul>\n            <li>\u2022 \nReload bonus: 50 free spins for deposits from \u20ac20\n\n<\/li>\n            <li>\u2022 \nWeekend Reload: 50% up to \u20ac700 + 50 free spins\n\n<\/li>\n        <\/ul>\n<br>\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Tournaments and Draws\n<\/h4>\n            <ul>\n            <li>\u2022 \nSlot tournaments with prizes up to \u20ac10,000\n\n<\/li>\n            <li>\u2022 \nTable game tournaments with exclusive rewards\n\n<\/li>\n        <\/ul>\n\n    <\/div>\n\n    <!-- \u041f\u0440\u0430\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n                <h4 style = \"font-weight: bold; font-size: 24px;\">Seasonal Events\n<\/h4>\n            <ul>\n            <li>\u2022 \nHoliday bonuses up to \u20ac500\n\n<\/li>\n            <li>\u2022 \nSummer jackpot tournaments\n\n<\/li>\n        <\/ul>\n<br>\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Jackpots and Big Wins\n<\/h4>\n            <ul>\n            <li>\u2022 \nProgressive jackpots up to \u20ac100,000\n\n<\/li>\n            <li>\u2022 \nDaily prize draws\n\n\n<\/li>\n        <\/ul>\n<br>\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Cashback\n<\/h4>\n            <ul>\n            <li>\u2022 \nUp to 15% for active players\n<\/li>\n          \n        <\/ul>\n      \n\n    <\/div>\n<\/div>\n<br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nPopular Games at Vegasino \u2014 Top Entertainment for Players\n<\/h3>\n\n<p>\nVegasino offers a vast selection of games, with the most popular titles including top slots and classic table games. The casino partners with leading providers such as Pragmatic Play, NetEnt, Play\u2019n GO, and Yggdrasil, ensuring premium quality and fair play. Games feature stunning graphics, engaging themes, and reliable mechanics.\n\n<\/p>\n<br>\n<p>\nSlots are the centerpiece of Vegasino\u2019s collection, ranging from classic machines to video slots with bonus features and progressive jackpots. Table games like roulette, blackjack, and baccarat provide traditional gaming experiences. Live casino games with real dealers recreate the atmosphere of a land-based casino.\n\n<\/p>\n<br>\n<p>\nAdditionally, the platform offers exclusive game shows and fast-paced titles for players who enjoy dynamic gameplay. Popular games often feature in tournaments with large prize pools, making the experience even more thrilling. From timeless classics to innovative releases, Vegasino has something for everyone.\n\n<\/p>\n<br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">Popular Vegasino Games<\/h4>\n\n <ul>\n            <li>\u2022 \nSweet Bonanza (Pragmatic Play):\nColorful slot with cascading wins and multipliers up to x100. Perfect for bonus lovers.\n<\/li>\n            <li>\u2022 \nBook of Dead (Play\u2019n GO):\nLegendary Egyptian-themed slot with expanding symbols and high volatility.\n<\/li>\n            <li>\u2022 \nStarburst (NetEnt):\nClassic video slot with simple mechanics and frequent payouts. Ideal for beginners.\n<\/li>\n            <li>\u2022 \nGonzo\u2019s Quest (NetEnt):\nAdventure slot featuring cascading reels and multipliers. Known for its dynamic gameplay.\n<\/li>\n\t    <li>\u2022 \nLightning Roulette (Evolution Gaming):\nLive roulette with unique multipliers and authentic casino atmosphere.\n<\/li>\n    <li>\u2022 \nBlackjack VIP:\nClassic blackjack with high betting limits for experienced players.\n<\/li>\n    <li>\u2022 \nMega Moolah (Microgaming):\nProgressive jackpot slot offering wins that can reach hundreds of thousands of euros.\n<\/li>\n        <\/ul><br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nMinimum and Maximum Bets at Vegasino\n<\/h3>\n\n<p> \nVegasino offers flexible betting options so every player can choose a comfortable level of play. Minimum bets are ideal for beginners, while maximum limits cater to high rollers seeking big wins. This applies to slots, table games, and live dealer experiences.\n\n<\/p><br>\n\n<table style=\"width:100%; border-collapse:collapse; margin-top:16px;\">\n            <thead>\n                <tr style=\"background:#1F669E; color:#fff;\">\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:left;\">Game Type<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Minimum Bet<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Maximum Bet<\/th>\n                <\/tr>\n            <\/thead>\n            <tbody>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Slots<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac0.10 <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac100 <\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Roulette<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac1<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac5,000<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Blackjack <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac5 <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac10,000<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Baccarat<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac10 <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\"> \u20ac15,000<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Live Casino<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac1<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac20,000<\/td>\n                <\/tr>\n \n            <\/tbody>\n        <\/table><br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nSpecial Events and Entertainment at Vegasino\n<\/h3>\n\n<p>\nVegasino is not just a gaming platform but a hub for exciting events and unique entertainment. The casino regularly hosts special activities that make gameplay more thrilling. These include themed promotions, holiday tournaments, and exclusive live game shows available in both standard and live formats.\n\n<\/p>\n<br>\n<p>\nSeasonal events are a major highlight. During major holidays like Christmas, New Year, or summer festivals, Vegasino launches special bonus programs and tournaments with boosted prize pools. Players can join gift draws, earn extra free spins, and enjoy deposit bonuses.\n\n<\/p>\n<br>\n<p>\nLive shows are another standout feature, creating the atmosphere of a real casino. Games with live dealers include interactive elements, and some shows feature unique mechanics such as multipliers or wheels of fortune. These formats combine gaming with entertainment for an immersive experience.\n\n<\/p>\n<br>\n<p>\nAdditionally, Vegasino organizes exclusive slot and table game tournaments. These competitions offer chances to win large cash prizes and gifts. Leaderboards and rankings add excitement and a competitive edge to the experience.\n\n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">All Entertainment and Events with Short Descriptions<\/h4>\n\n <ul>\n            <li>\u2022 \nThemed Promotions \u2014 special bonuses and free spins tied to holidays.\n\n<\/li>\n            <li>\u2022 \nSeasonal Tournaments \u2014 competitions with boosted prize pools.\n\n<\/li>\n            <li>\u2022 \nLive Dealer Shows \u2014 interactive games with unique mechanics.\n\n<\/li>\n            <li>\u2022 \nWheel of Fortune \u2014 chances to win extra bonuses and spins.\n\n<\/li>\n\t    <li>\u2022 \nExclusive Slot Tournaments \u2014 prizes up to \u20ac10,000 and leaderboards.\n\n<\/li>\n\t    <li>\u2022 \nTable Game Tournaments \u2014 competitions in roulette, blackjack, and baccarat.\n\n<\/li>\n\t    <li>\u2022 \nHoliday Giveaways \u2014 gifts and bonuses for major events.\n\n\n<\/li>\n        <\/ul><br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nWithdrawal Methods and Payout Speed at Vegasino\n<\/h3>\n\n<p>\nVegasino provides convenient and secure withdrawal methods, ensuring players can access their winnings quickly. The platform supports traditional bank transfers, modern e-wallets, and cryptocurrencies, offering flexibility for users worldwide.\n\n<\/p>\n<br>\n<p>\nProcessing times depend on the chosen method. E-wallet withdrawals are usually completed within 0\u201324 hours, making them the fastest option. Bank transfers take 3 to 7 business days, while cryptocurrency transactions are almost instant after confirmation.\n\n<\/p>\n<br>\n<p>\nWithdrawal limits are set for security and control. The minimum withdrawal amount is typically \u20ac20, while the maximum limit can reach \u20ac500 per day and \u20ac7,000 per month. VIP players enjoy significantly higher limits, allowing easy management of large winnings.\n\n<\/p>\n<br>\n<p>\nAll transactions are processed through secure channels using SSL encryption, eliminating any risk of data leaks. Vegasino also performs identity verification for large payouts to prevent fraud and ensure fairness.\n\n<\/p>\n<br>\n\n\n\n<div\n lang=\"en\"\n     style=\"\n       -webkit-columns: 320px 2;\n       -moz-columns: 320px 2;\n       columns: 320px 2;\n\n        -webkit-column-gap: 1.2em;\n       -moz-column-gap: 1.2em;\n       column-gap: 1.2em;\n \n       hyphens: auto;\n\">\n\n\n   <!-- \u041b\u0435\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Withdrawal Methods\n<\/h4>\n            <ul>\n            <li>\u2022 \nE-wallets (Skrill, Neteller, MiFinity) \u2014 processed within 24 hours\n\n<\/li>\n            <li>\u2022 \nBank Transfer \u2014 3 to 7 business days\n\n<\/li>\n            <li>\u2022 \nCryptocurrencies (Bitcoin, Ethereum, Litecoin) \u2014 almost instant\n<\/li>\n        <\/ul>\n<br>\n   <h4 style = \"font-weight: bold; font-size: 24px;\">Processing Times\n<\/h4>\n            <ul>\n            <li>\u2022 \nE-wallets: 0\u201324 hours\n\n<\/li>\n            <li>\u2022 \nCrypto: up to 1 hour\n\n<\/li>\n            <li>\u2022 \nBank Transfer: 3\u20137 days\n\n<\/li>\n        <\/ul>\n    <\/div>\n\n    <!-- \u041f\u0440\u0430\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\"> Limits\n<\/h4>\n        <ul>\n            <li>\u2022 \nMinimum withdrawal: \u20ac20\n\n<\/li>\n            <li>\u2022 \nMaximum: \u20ac500 per day, \u20ac7,000 per month\n\n<\/li>\n            <li>\u2022 \nVIP: custom limits up to \u20ac20,000\n<\/li>\n     \n  \n        <\/ul><br>\n      \n\n    <\/div>\n<\/div>\n<br>\n"
+            }
+        },
+        "faq": {
+            "title": "Frequently Asked Questions",
+            "items": [
+                {
+                    "title": "Do I need to verify my account?",
+                    "answer": "Yes, identity verification is required for withdrawals. This is a standard security measure.\n"
+                },
+                {
+                    "title": "What documents are needed for verification?",
+                    "answer": "Usually, a passport or driver\u2019s license and proof of address (utility bill) are requested.\n"
+                },
+                {
+                    "title": "Can I play for free?",
+                    "answer": "Yes, most slots are available in demo mode without real bets.\n"
+                },
+                {
+                    "title": " Can I set gaming limits?",
+                    "answer": "Yes, responsible gaming tools allow setting deposit, bet, and time limits.\n"
+                }
+            ]
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/709",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Vegasino"
+        }
+    },
+    "langs": [
+        {
+            "code": "en-CA",
+            "name": "\u0410\u043d\u0433\u043b\u0438\u0439\u0441\u043a\u0438\u0439",
+            "isDefault": true
+        }
+    ]
+}

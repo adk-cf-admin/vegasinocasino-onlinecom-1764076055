@@ -1,0 +1,19 @@
+{
+  "name": "Vegasino",
+  "short_name": "Vegasino",
+  "theme_color": "",
+  "background_color": "#1F669E",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1764073022-faviconv2-4.webp",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}
